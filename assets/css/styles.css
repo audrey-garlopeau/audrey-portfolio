@@ -613,11 +613,6 @@ img {
   color: var(--first-color);
 }
 
-/*==================== SERVICES ====================*/
-
-
-/* Active Modal */
-
 
 /*==================== PORTFOLIO ====================*/
 .portfolio__container {
@@ -707,9 +702,6 @@ img {
   width: 232px;
   justify-self: center;
 }
-
-/*==================== TESTIMONIAL ====================*/
-
 
 /*==================== CONTACT ME ====================*/
 .contact__container {

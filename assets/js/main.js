@@ -67,7 +67,6 @@ tabs.forEach(tab => {
     })
 })
 
-/*==================== SERVICES MODAL ====================*/
 
 
 /*==================== PORTFOLIO SWIPER  ====================*/
@@ -83,21 +82,6 @@ let swiper = new Swiper('.portfolio__container', {
         clickable: true,
     },
 });
-
-/*==================== CONTACT ====================*/
-// function sendEmail() {
-//     Email.send({
-//         Host: "smtp.gmail.com",
-//         Username: "audreygrlp17@gmail.com",
-//         Password: "1234",
-//         To: 'audrey.garlopeau@hotmail.com',
-//         From: document.getElementById("email").value,
-//         Subject: "Nouvel objet",
-//         Body: "Nouveau message"
-//     }).then(
-//         message => alert(message)
-//     );
-// }
 
 /*==================== SCROLL SECTIONS ACTIVE LINK ====================*/
 const sections = document.querySelectorAll('section[id]')
