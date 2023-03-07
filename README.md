@@ -1,1 +1,2 @@
-# audrey-portfolio
+Audrey Garlopeau Portfolio
+HTML CSS and JavaScript
